@@ -7,7 +7,7 @@ Java
 MySQL
 
 Autores:
-Egoitz Puerta
-Helen J. Paz
 Jon Ander Fontan
+Helen J. Paz
+Egoitz Puerta
 Sara Santiso
